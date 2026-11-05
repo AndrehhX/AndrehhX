@@ -1,0 +1,47 @@
+Technology icons: Simple Icons (CC0-1.0).
+[
+  {
+    "technology": "React",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"
+  },
+  {
+    "technology": "TypeScript",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"
+  },
+  {
+    "technology": "JavaScript",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
+  },
+  {
+    "technology": "HTML",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"
+  },
+  {
+    "technology": "CSS",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg"
+  },
+  {
+    "technology": "Tailwind CSS",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
+  },
+  {
+    "technology": "GSAP",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gsap.svg"
+  },
+  {
+    "technology": "Git",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"
+  },
+  {
+    "technology": "GitHub",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+  },
+  {
+    "technology": "MySQL",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"
+  }
+]
+
+Activity data: public contribution tooltips from https://github.com/AndrehhX, captured 2026-11-05. Static dated snapshot.
+Project covers: original typographic illustrations, not application screenshots.
+Interface artwork: original AI-generated image, OpenAI built-in image generation, 2026-11-05.
