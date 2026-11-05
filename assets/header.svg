@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Andreh Callejas — Frontend Developer &amp; UI/UX Design</title>
+  <desc id="desc">Cabecera monocromática con tipografía editorial blanca sobre negro y una composición geométrica en plata.</desc>
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8f8f8"/>
+      <stop offset=".36" stop-color="#b4b4b4"/>
+      <stop offset=".65" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#686868"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#858585"/>
+      <stop offset="1" stop-color="#303030"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" rx="18" fill="#101010"/>
+  <rect x=".5" y=".5" width="1199" height="439" rx="17.5" fill="none" stroke="#303030"/>
+  <text x="58" y="151" fill="#f5f5f5" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="-3">Andreh</text>
+  <text x="58" y="263" fill="#f5f5f5" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="-3">Callejas.</text>
+  <text x="64" y="323" fill="#c9c9c9" font-family="Arial, Helvetica, sans-serif" font-size="26">Frontend Developer &amp; UI/UX Design</text>
+  <path d="M64 365H1136" stroke="#363636"/>
+  <text x="64" y="405" fill="#b7b7b7" font-family="Arial, Helvetica, sans-serif" font-size="18">Diseño visual. Interacción. Código.</text>
+  <text x="1136" y="405" text-anchor="end" fill="#b7b7b7" font-family="Arial, Helvetica, sans-serif" font-size="18">@AndrehhX</text>
+  <g transform="translate(919 191) rotate(-24)" fill="none" stroke-linejoin="round">
+    <rect x="-118" y="-118" width="236" height="236" rx="24" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="-94" y="-94" width="188" height="188" rx="19" stroke="url(#silver)" stroke-width="18"/>
+    <rect x="-56" y="-56" width="112" height="112" rx="13" stroke="url(#silver)" stroke-width="12"/>
+    <rect x="-23" y="-23" width="46" height="46" rx="6" stroke="#eeeeee" stroke-width="7"/>
+  </g>
+</svg>
